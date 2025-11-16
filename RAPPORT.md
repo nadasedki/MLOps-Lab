@@ -5,7 +5,7 @@
 ## Task 1: Prepare the ML Project
 
 1. Downloaded the ZIP file and created GitHub repository "MLOps-Lab"
-![CI/CD Pipeline Results](images/image1.png)
+![CI/CD Pipeline Results](images/Image1.png)
 
 ## Task 2: Run the App Locally
 
