@@ -83,7 +83,7 @@ I enhanced the existing test suite by adding three critical validation layers to
 -  Build Docker image and upload as artifact
  ![CI/CD Pipeline Results](images/Image15.png)
 ![CI/CD Pipeline Results](images/Image16.png)
-![CI/CD Pipeline Results](images/Image17.png)
+
 ### Results:
 -  Workflow successfully triggered on push to GitHub
 -  All steps executed without errors
@@ -93,6 +93,7 @@ I enhanced the existing test suite by adding three critical validation layers to
 ## Task 6: Containerize the Application
 
 1. Added comprehensive `Dockerfile` for containerization
+   ![CI/CD Pipeline Results](images/Image17.png)
    ![CI/CD Pipeline Results](images/Image18.png)
 3.  Dockerfile produces runnable container that properly exposes application port
 4.  Successfully built Docker image and executed training using dockerized application
