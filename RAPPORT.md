@@ -73,7 +73,7 @@ I enhanced the existing test suite by adding three critical validation layers to
 
 1. Created `.github/workflows/ci.yml` configured to trigger on `push` and `pull_request` events
  ![CI/CD Pipeline Results](images/Image12.png)
- ![CI/CD Pipeline Results](images/Image13.png)
+ ![CI/CD Pipeline Results](images/Image14.png)
 ### Workflow Steps:
 -  Checkout the code
 -  Set up Python environment
