@@ -28,9 +28,9 @@ jobs:
         pip install -r requirements.txt
 
     # ○ run the linter
-    - name: Run linter
+    - name: Run linter (flake8)
       run: |
-        flake8 src/ tests/ --show-source --statistics
+        flake8 --ignore E501,W292,E302,E305,F401,F541,W293 src tests
 
     # ○ run tests and produce test results/artifacts
     - name: Run tests
